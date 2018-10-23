@@ -182,3 +182,8 @@ $RECYCLE.BIN/
 
 
 # End of https://www.gitignore.io/api/node,windows,jetbrains
+.idea/Hello.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
